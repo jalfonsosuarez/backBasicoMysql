@@ -28,4 +28,10 @@ nodemon dist/index.js
 * node carpeta_produccion/index.js
 
 
+### Configuraciones:
+
+Editar /src/global/enviroment.ts
+
+
+
 
