@@ -1,4 +1,4 @@
-# carretillasBackEnd
+# backBasicoMySQL
 Backend básico con Express y MySQL
 
 Ejecutar npm install para paquetes.
